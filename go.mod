@@ -80,4 +80,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/luraproject/lura/v2 v2.3.0 => github.com/razorpay/lura/v2 v2.3.1-0.20231213043221-aca591d87a9b
+replace github.com/luraproject/lura/v2 v2.3.0 => github.com/razorpay/lura/v2 v2.4.0
